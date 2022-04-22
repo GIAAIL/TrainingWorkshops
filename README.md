@@ -1,4 +1,4 @@
-# TrainingWorkshops
+# Training Workshops
 
 Training materials for GIAAIL lab members, as well as for those who are interested.
 
