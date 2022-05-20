@@ -1,3 +1,3 @@
 # Fractal Brownian Motion
 
-![alt text](http://url/to/img.png)
+![alt text](Fractal Brownian Motion/image/1.gif)
